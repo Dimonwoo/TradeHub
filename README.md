@@ -5,6 +5,9 @@
 ### Stock Exchange Website
 
 Welcome to the Stock Exchange Website project! This web application allows users to sign up, log in, create a demat account, maintain a portfolio, and buy stocks.
+<h3>Home Page</h3>
+
+![Screenshot (386)](https://github.com/Shahid0143/TradeHub/assets/112757232/79a879da-bb79-4d34-bbff-eb1b481b7097)
 
 ## Table of Contents
 
